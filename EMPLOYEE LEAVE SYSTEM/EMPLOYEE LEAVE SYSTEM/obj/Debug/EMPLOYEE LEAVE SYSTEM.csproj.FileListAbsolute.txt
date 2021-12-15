@@ -1,0 +1,20 @@
+C:\Users\Franklin Bruni\Documents\SharpDevelop Projects\EMPLOYEE LEAVE SYSTEM\EMPLOYEE LEAVE SYSTEM\bin\Debug\EMPLOYEE LEAVE SYSTEM.exe.config
+C:\Users\Franklin Bruni\Documents\SharpDevelop Projects\EMPLOYEE LEAVE SYSTEM\EMPLOYEE LEAVE SYSTEM\bin\Debug\EMPLOYEE LEAVE SYSTEM.exe
+C:\Users\Franklin Bruni\Documents\SharpDevelop Projects\EMPLOYEE LEAVE SYSTEM\EMPLOYEE LEAVE SYSTEM\bin\Debug\EMPLOYEE LEAVE SYSTEM.pdb
+C:\Users\Franklin Bruni\Documents\SharpDevelop Projects\EMPLOYEE LEAVE SYSTEM\EMPLOYEE LEAVE SYSTEM\obj\Debug\EMPLOYEE_LEAVE_SYSTEM.MainForm.resources
+C:\Users\Franklin Bruni\Documents\SharpDevelop Projects\EMPLOYEE LEAVE SYSTEM\EMPLOYEE LEAVE SYSTEM\obj\Debug\EMPLOYEE LEAVE SYSTEM.csproj.GenerateResource.Cache
+C:\Users\Franklin Bruni\Documents\SharpDevelop Projects\EMPLOYEE LEAVE SYSTEM\EMPLOYEE LEAVE SYSTEM\obj\Debug\EMPLOYEE LEAVE SYSTEM.exe
+C:\Users\Franklin Bruni\Documents\SharpDevelop Projects\EMPLOYEE LEAVE SYSTEM\EMPLOYEE LEAVE SYSTEM\obj\Debug\EMPLOYEE LEAVE SYSTEM.pdb
+C:\Users\Franklin Bruni\Documents\SharpDevelop Projects\EMPLOYEE LEAVE SYSTEM\EMPLOYEE LEAVE SYSTEM\obj\Debug\EMPLOYEE_LEAVE_SYSTEM.ADMIN_DASHBOARD.resources
+C:\Users\Franklin Bruni\Documents\SharpDevelop Projects\EMPLOYEE LEAVE SYSTEM\EMPLOYEE LEAVE SYSTEM\obj\Debug\EMPLOYEE_LEAVE_SYSTEM.EMPLOYEE_DASHBOARD.resources
+C:\Users\Franklin Bruni\Documents\SharpDevelop Projects\EMPLOYEE LEAVE SYSTEM\EMPLOYEE LEAVE SYSTEM\obj\Debug\EMPLOYEE_LEAVE_SYSTEM.Properties.Resources.resources
+C:\Users\Franklin Bruni\Documents\SharpDevelop Projects\EMPLOYEE LEAVE SYSTEM\EMPLOYEE LEAVE SYSTEM\obj\Debug\EMPLOYEE LEAVE SYSTEM.csprojResolveAssemblyReference.cache
+C:\Users\Franklin Bruni\Documents\SharpDevelop Projects\EMPLOYEE LEAVE SYSTEM\EMPLOYEE LEAVE SYSTEM\obj\Debug\EMPLOYEE_LEAVE_SYSTEM.leave_manager.resources
+C:\Users\Franklin Bruni\Documents\SharpDevelop Projects\EMPLOYEE LEAVE SYSTEM\EMPLOYEE LEAVE SYSTEM\obj\Debug\EMPLOYEE_LEAVE_SYSTEM.Admin_Dash.resources
+C:\Users\Franklin Bruni\Documents\SharpDevelop Projects\EMPLOYEE LEAVE SYSTEM\EMPLOYEE LEAVE SYSTEM\obj\Debug\EMPLOYEE_LEAVE_SYSTEM.Employee_list.resources
+C:\Users\Franklin Bruni\Documents\SharpDevelop Projects\EMPLOYEE LEAVE SYSTEM\EMPLOYEE LEAVE SYSTEM\obj\Debug\EMPLOYEE_LEAVE_SYSTEM.employee_dash.resources
+C:\Users\Franklin Bruni\Documents\SharpDevelop Projects\EMPLOYEE LEAVE SYSTEM\EMPLOYEE LEAVE SYSTEM\obj\Debug\EMPLOYEE_LEAVE_SYSTEM.Apply_Leave.resources
+C:\Users\Franklin Bruni\Documents\SharpDevelop Projects\EMPLOYEE LEAVE SYSTEM\EMPLOYEE LEAVE SYSTEM\obj\Debug\EMPLOYEE_LEAVE_SYSTEM.User_Profile.resources
+C:\Users\Franklin Bruni\Documents\SharpDevelop Projects\EMPLOYEE LEAVE SYSTEM\EMPLOYEE LEAVE SYSTEM\obj\Debug\EMPLOYEE_LEAVE_SYSTEM.Login_signup.resources
+C:\Users\Franklin Bruni\Documents\SharpDevelop Projects\EMPLOYEE LEAVE SYSTEM\EMPLOYEE LEAVE SYSTEM\obj\Debug\EMPLOYEE_LEAVE_SYSTEM.Apply_Leave2.resources
+C:\Users\Franklin Bruni\Documents\SharpDevelop Projects\EMPLOYEE LEAVE SYSTEM\EMPLOYEE LEAVE SYSTEM\obj\Debug\EMPLOYEE_LEAVE_SYSTEM.Leave_Calender.resources
