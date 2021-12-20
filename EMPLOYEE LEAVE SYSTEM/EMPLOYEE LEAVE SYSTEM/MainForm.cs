@@ -53,8 +53,19 @@ namespace EMPLOYEE_LEAVE_SYSTEM
 		}
 		void MainFormLoad(object sender, EventArgs e)
 		{
-	
+            timer1.Start();
 		}
+
+        private void label7_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            time.Text = DateTime.Now.ToLongTimeString();
+            label_Date.Text = DateTime.Now.ToLongDateString();
+        }
         
 	}
 }

@@ -54,7 +54,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Admin_Dash.cs" />
+    <Compile Include="Admin_Dash.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Include="Admin_Dash.Designer.cs">
       <DependentUpon>Admin_Dash.cs</DependentUpon>
     </Compile>
@@ -64,11 +66,15 @@
     <Compile Include="ADMIN_DASHBOARD.Designer.cs">
       <DependentUpon>ADMIN_DASHBOARD.cs</DependentUpon>
     </Compile>
-    <Compile Include="Apply_Leave.cs" />
+    <Compile Include="Apply_Leave.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Include="Apply_Leave.Designer.cs">
       <DependentUpon>Apply_Leave.cs</DependentUpon>
     </Compile>
-    <Compile Include="Apply_Leave2.cs" />
+    <Compile Include="Apply_Leave2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Include="Apply_Leave2.Designer.cs">
       <DependentUpon>Apply_Leave2.cs</DependentUpon>
     </Compile>
@@ -78,23 +84,33 @@
     <Compile Include="EMPLOYEE DASHBOARD.Designer.cs">
       <DependentUpon>EMPLOYEE DASHBOARD.cs</DependentUpon>
     </Compile>
-    <Compile Include="employee_dash.cs" />
+    <Compile Include="employee_dash.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Include="employee_dash.Designer.cs">
       <DependentUpon>employee_dash.cs</DependentUpon>
     </Compile>
-    <Compile Include="Employee_list.cs" />
+    <Compile Include="Employee_list.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Include="Employee_list.Designer.cs">
       <DependentUpon>Employee_list.cs</DependentUpon>
     </Compile>
-    <Compile Include="Leave_Calender.cs" />
+    <Compile Include="Leave_Calender.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Include="Leave_Calender.Designer.cs">
       <DependentUpon>Leave_Calender.cs</DependentUpon>
     </Compile>
-    <Compile Include="leave_manager.cs" />
+    <Compile Include="leave_manager.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Include="leave_manager.Designer.cs">
       <DependentUpon>leave_manager.cs</DependentUpon>
     </Compile>
-    <Compile Include="Login_signup.cs" />
+    <Compile Include="Login_signup.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Include="Login_signup.Designer.cs">
       <DependentUpon>Login_signup.cs</DependentUpon>
     </Compile>
@@ -111,7 +127,15 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <Compile Include="User_Profile.cs" />
+    <Compile Include="Register Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Register Employee.Designer.cs">
+      <DependentUpon>Register Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Profile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Include="User_Profile.Designer.cs">
       <DependentUpon>User_Profile.cs</DependentUpon>
     </Compile>
@@ -158,6 +182,9 @@
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Register Employee.resx">
+      <DependentUpon>Register Employee.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="User_Profile.resx">
       <DependentUpon>User_Profile.cs</DependentUpon>

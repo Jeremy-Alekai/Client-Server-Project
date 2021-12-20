@@ -29,5 +29,12 @@ namespace EMPLOYEE_LEAVE_SYSTEM
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
 		}
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            
+             Register_Employee form1 = new Register_Employee();
+             form1.ShowDialog();
+        }
 	}
 }

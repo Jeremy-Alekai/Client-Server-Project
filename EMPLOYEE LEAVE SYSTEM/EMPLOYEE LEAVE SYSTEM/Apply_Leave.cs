@@ -42,5 +42,10 @@ namespace EMPLOYEE_LEAVE_SYSTEM
 		{
 	
 		}
+
+        private void Label12_Click(object sender, EventArgs e)
+        {
+
+        }
 	}
 }
